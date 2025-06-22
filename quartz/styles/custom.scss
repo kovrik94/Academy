@@ -1,11 +1,16 @@
 @use "./base.scss";
-/* Полностью скрыть Graph View */
+
+/* Полностью удалить Graph View со всех страниц */
 .graph-view {
   display: none !important;
 }
 
-/* Скрыть ссылку в навигации */
-a.nav-item[href="/graph"],
+/* Скрыть ссылку в навигационной панели */
+a.nav-item[href="/graph"] {
+  display: none !important;
+}
+
+/* Скрыть ссылку в мобильном меню */
 .mobile-menu-item[href="/graph"] {
   display: none !important;
 }
@@ -14,4 +19,36 @@ a.nav-item[href="/graph"],
 .page-listing .graph-view {
   display: none !important;
 }
-// put your custom CSS here!
+
+/* Скрыть любые другие возможные упоминания */
+[href="/graph"],
+[data-href="/graph"],
+a[href*="graph"] {
+  display: none !important;
+}
+
+/* Убрать пустое место, которое могло остаться после удаления */
+.after-body {
+  margin-top: 0 !important;
+}
+
+/* Если есть футер с ссылкой на граф */
+.footer a[href="/graph"] {
+  display: none !important;
+}
+
+/* Дополнительная защита на случай генерации страницы графа */
+body[data-slug="graph"] {
+  .page-title,
+  .page-content {
+    display: none !important;
+  }
+  
+  &::before {
+    content: "Page not found";
+    display: block;
+    text-align: center;
+    font-size: 2rem;
+    margin-top: 3rem;
+  }
+}
