@@ -1,12 +1,4 @@
-- [[Этика педагогов]]
-- [[🌱 Ключевые принципы Академии]]
-- [[🔒Безопасность]]
+# Обучение педагогов и кураторов 25-29 августа
 
-<iframe  width="900" height="750" src="https://docs.google.com/spreadsheets/d/1kruvHMAgJTR8LnLnpEPmUtlfzwqs5flso2C8gELkhgI/edit?usp=sharing"></iframe>
+<iframe  width="900" height="750" src="https://docs.google.com/spreadsheets/d/1WFpZ_LeK-21OuRoyzvcsuofNnN4KBY-69jiEqcd7Cm8/edit?usp=sharing"></iframe>
 
-***
-
-- [[Август]]
-- [[Сентябрь]]
-
-***
