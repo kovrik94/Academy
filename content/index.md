@@ -1,2 +1,2 @@
-<iframe  width="900" height="750" src="https://docs.google.com/spreadsheets/d/1WFpZ_LeK-21OuRoyzvcsuofNnN4KBY-69jiEqcd7Cm8/edit?usp=sharing"></iframe>
-
+[[Этика педагогов]]
+[[🌱 Ключевые принципы Академии]]
