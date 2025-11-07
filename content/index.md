@@ -27,8 +27,8 @@
 
 # Расписания
 
-[[Годовое расписание]]
-[Календарик. НАТАШЕ НАЖИМАТЬ СЮДА](https://docs.google.com/spreadsheets/d/1kruvHMAgJTR8LnLnpEPmUtlfzwqs5flso2C8gELkhgI/edit?pli=1&gid=0#gid=0)
-[[Расписание по дням]]
+[[Годовое расписание]]  
+[Календарик. НАТАШЕ НАЖИМАТЬ СЮДА](https://docs.google.com/spreadsheets/d/1kruvHMAgJTR8LnLnpEPmUtlfzwqs5flso2C8gELkhgI/edit?pli=1&gid=0#gid=0)  
+[[Расписание по дням]]  
 
 ![[Октябрь|Октябрь]]
